@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Expense planner</string>
+    <string name="add_user">Add User</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="user_name">Enter User Name:</string>
+    <string name="view_expense_history">View Expense History</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="save">Save</string>
+    <string name="users">Users:</string>
+    <string name="expense_description">Expense Description:</string>
+    <string name="amount">Amount:</string>
+    <string name="paid_by">Paid By:</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="error_no_users">You need to add at least one user before adding expenses.</string>
+    <string name="expense_history">Expense History</string>
+    <string name="e_g_lunch_groceries">e.g., Lunch, Groceries</string>
+    <string name="e_g_50_0">e.g., 50.0</string>
+    <string name="_0_00_z">0.00 zł</string>
+</resources>

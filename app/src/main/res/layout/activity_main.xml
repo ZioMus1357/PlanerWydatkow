@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:ignore="VisualLintBounds">
+
+    <Button
+        android:id="@+id/addUserButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_user"
+        android:layout_marginBottom="8dp"
+        tools:ignore="VisualLintButtonSize" />
+
+    <Button
+        android:id="@+id/addExpenseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_expense"
+        android:layout_marginBottom="8dp"
+        tools:ignore="VisualLintButtonSize" />
+    <!--
+    <Button
+        android:id="@+id/calculateBalancesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate Balances"
+        android:layout_marginBottom="8dp" />
+    -->
+    <Button
+        android:id="@+id/viewExpensesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/view_expense_history"
+        android:layout_marginBottom="8dp"
+        tools:ignore="VisualLintButtonSize" />
+
+    <Button
+        android:id="@+id/clearDataButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/clear_all_data"
+        android:layout_marginBottom="8dp"
+        tools:ignore="VisualLintButtonSize" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/users"
+        android:textSize="18sp"
+        android:layout_marginBottom="8dp" />
+
+    <ListView
+        android:id="@+id/userListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp" />
+</LinearLayout>
