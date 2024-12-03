@@ -1,7 +1,8 @@
 # Planer Wydatków
 ## Opis aplikacji:
 Planer Wydatków to prosta aplikacja mobilna na platformę Android, która pomaga zarządzać wydatkami w grupie użytkowników. Pozwala na dodawanie użytkowników, rejestrowanie wydatków oraz automatyczne obliczanie salda dla każdego użytkownika. Aplikacja umożliwia również przegląd historii wydatków i resetowanie danych.
-![Screenshot_20241203-201302_Expense planner](https://github.com/user-attachments/assets/0b3fbe3e-7154-4d46-a615-507d1b4c51d5)
+<img src="https://github.com/user-attachments/assets/0b3fbe3e-7154-4d46-a615-507d1b4c51d5" alt="Zrzut ekranu aplikacji" width="400" />
+
 
 ## Funkcjonalności
 ### 1. Dodawanie użytkowników:
