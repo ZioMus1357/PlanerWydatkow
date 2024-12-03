@@ -34,34 +34,34 @@ Planer Wydatków to prosta aplikacja mobilna na platformę Android, która pomag
 
 - Na ekranie głównym kliknij przycisk "Add User".
 - Wprowadź nazwę użytkownika w nowym oknie i kliknij "Save".
-![Screenshot_20241203-201313_Expense planner](https://github.com/user-attachments/assets/5c8619e2-af44-4b85-abee-5a24c22461b2)
-![Screenshot_20241203-201324_Expense planner](https://github.com/user-attachments/assets/ee4b9fdf-3cb7-461d-bbb7-cd05179128f7)
-![Screenshot_20241203-201334_Expense planner](https://github.com/user-attachments/assets/1c3defaa-f0b5-429b-8c68-3b1671f044c3)
+<img src="https://github.com/user-attachments/assets/5c8619e2-af44-4b85-abee-5a24c22461b2" alt="Zrzut ekranu aplikacji" width="400" />
+<img src="https://github.com/user-attachments/assets/ee4b9fdf-3cb7-461d-bbb7-cd05179128f7" alt="Zrzut ekranu aplikacji" width="400" />
+<img src="https://github.com/user-attachments/assets/1c3defaa-f0b5-429b-8c68-3b1671f044c3" alt="Zrzut ekranu aplikacji" width="400" />
 
 ### 2. Dodawanie wydatku:
 
 - Na ekranie głównym kliknij przycisk "Add Expense".
 - Wprowadź szczegóły wydatku (opis, kwotę, osobę płacącą) i kliknij "Save".
-![Screenshot_20241203-201424_Expense planner](https://github.com/user-attachments/assets/085e37a6-5111-454d-bc7c-6af7a0ff788f)
-![Screenshot_20241203-201444_Expense planner](https://github.com/user-attachments/assets/8c16f31d-aa63-4949-a75c-c016e738ea60)
+<img src="https://github.com/user-attachments/assets/085e37a6-5111-454d-bc7c-6af7a0ff788f" alt="Zrzut ekranu aplikacji" width="400" />
+<img src="https://github.com/user-attachments/assets/8c16f31d-aa63-4949-a75c-c016e738ea60" alt="Zrzut ekranu aplikacji" width="400" />
 
 ### 3. Wyświetlanie salda:
 
 - Lista użytkowników na ekranie głównym automatycznie pokazuje salda obok ich nazw.
-![Screenshot_20241203-201452_Expense planner](https://github.com/user-attachments/assets/02222aa5-0812-4bfc-92ba-faf9d1570417)
-![Screenshot_20241203-201559_Expense planner](https://github.com/user-attachments/assets/36e4c4ee-738b-49f9-afab-f465330aac3f)
+<img src="https://github.com/user-attachments/assets/02222aa5-0812-4bfc-92ba-faf9d1570417" alt="Zrzut ekranu aplikacji" width="400" />
+<img src="https://github.com/user-attachments/assets/36e4c4ee-738b-49f9-afab-f465330aac3f" alt="Zrzut ekranu aplikacji" width="400" />
 
 
 ### 4. Przegląd historii wydatków:
 
 - Kliknij przycisk "View Expense History", aby zobaczyć szczegóły wszystkich dotychczasowych wydatków.
-![Screenshot_20241203-201523_Expense planner](https://github.com/user-attachments/assets/676834f1-44e9-4250-a3cd-85e7f85227c2)
+<img src="https://github.com/user-attachments/assets/676834f1-44e9-4250-a3cd-85e7f85227c2" alt="Zrzut ekranu aplikacji" width="400" />
 
 ### 5. Resetowanie danych:
 
 - Kliknij przycisk "Reset Data" na ekranie głównym.
 - Potwierdź reset, aby usunąć wszystkich użytkowników i wydatki.
-![Screenshot_20241203-201606_Expense planner](https://github.com/user-attachments/assets/b3074104-6f71-42a7-9f0d-689c6d949492)
+<img src="https://github.com/user-attachments/assets/b3074104-6f71-42a7-9f0d-689c6d949492" alt="Zrzut ekranu aplikacji" width="400" />
 
 ## Pliki źródłowe
 1. **Główne klasy:**
